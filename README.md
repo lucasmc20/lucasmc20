@@ -12,7 +12,7 @@
 - **Banco de Dados**: MySQL, PostgreSQL, MongoDB 
 
 ## 📊 GitHub Stats
-![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
+![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasmc20&show_icons=true&theme=radical)
 
 ## 🌐 Onde me encontrar:
 - [![DEV.TO](https://camo.githubusercontent.com/9f261cffd89ec38be7a29e57b39ce471d2fdfe0668ad61a91f55e048511fbfd7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6465762e746f2d3041304130413f7374796c653d666f722d7468652d6261646765266c6f676f3d646576646f74746f266c6f676f436f6c6f723d7768697465)](https://www.linkedin.com/in/lucas-c-643bb386/)
