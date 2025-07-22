@@ -7,9 +7,19 @@
 </p>
 
 ## 🛠 Habilidades
-- **Linguagens**: Java, JavaScript, PHP, Python
-- **Frameworks**: React, Laravel, Spring Boot
-- **Banco de Dados**: MySQL, PostgreSQL, MongoDB 
+
+- **Linguagens**: Java, JavaScript, TypeScript, PHP, Python, Shell Script  
+- **Frameworks & Bibliotecas**: Spring Boot, React.js, React Native, AngularJS, Node.js, Express, Laravel, CakePHP  
+- **Front-end**: HTML5, CSS3, Responsive Design, React Native, AngularJS  
+- **Back-end**: Spring Boot (Java), Node.js (JavaScript), Laravel e CakePHP (PHP)  
+- **Banco de Dados**: PostgreSQL, MySQL, Oracle, MongoDB  
+- **ORM / Persistência**: JPA (Hibernate), Hypersistence Utils, PHP PDO, Eloquent  
+- **DevOps & Infraestrutura**: Docker, OpenShift, CI/CD (GitLab CI, GitHub Actions), Azure (App Services, Storage, Banco de Dados)  
+- **Versionamento**: Git (GitFlow, GitHub, GitLab)  
+- **Metodologias Ágeis**: Scrum, Kanban (uso com JIRA e Trello)  
+- **Testes & Qualidade**: JUnit, Jest, ESLint, SonarQube  
+- **APIs & Ferramentas**: RESTful APIs, Postman, Insomnia  
+- **Outros**: Redis (cache e filas), Integração com sistemas legados, Design de sistemas escaláveis
 
 ## 📊 GitHub Stats
 ![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasmc20&show_icons=true&theme=radical)
