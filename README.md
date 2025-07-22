@@ -10,7 +10,7 @@
 
 - **Linguagens**: Java, JavaScript, TypeScript, PHP, Python, Shell Script  
 - **Frameworks & Bibliotecas**: Spring Boot, React.js, React Native, AngularJS, Node.js, Express, Laravel, CakePHP  
-- **Front-end**: HTML5, CSS3, Responsive Design, React Native, AngularJS  
+- **Front-end**: HTML5, CSS3, Responsive Design, React, React Native, AngularJS  
 - **Back-end**: Spring Boot (Java), Node.js (JavaScript), Laravel e CakePHP (PHP)  
 - **Banco de Dados**: PostgreSQL, MySQL, Oracle, MongoDB  
 - **ORM / Persistência**: JPA (Hibernate), Hypersistence Utils, PHP PDO, Eloquent  
