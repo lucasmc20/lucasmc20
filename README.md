@@ -79,14 +79,6 @@ Postman • Insomnia • Redis (cache e filas)
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME_AQUI&show_icons=true&theme=radical&cache_seconds=1800" />
-</p>
-
----
-
 ## 🌐 Contato
 
 <p align="center">
