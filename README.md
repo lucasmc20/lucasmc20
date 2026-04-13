@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Lucas Coelho
 
-💻 **Desenvolvedor Fullstack Sênior** com mais de 8 anos de experiência no desenvolvimento de aplicações web e mobile, atuando em projetos de alta complexidade nos setores público e privado.
+💻 **Desenvolvedor Fullstack Sênior** com mais de **12 anos de experiência** no desenvolvimento de aplicações web e mobile, atuando em projetos de alta complexidade nos setores público e privado.
 
 🚀 Atualmente atuo como Analista Desenvolvedor no Ministério Público do Mato Grosso do Sul, com foco em sistemas escaláveis, arquitetura de microsserviços e soluções em nuvem.
 
@@ -12,7 +12,7 @@
 
 ## 🚀 Sobre mim
 
-- 🔧 +8 anos de experiência como desenvolvedor fullstack  
+- 🔧 +12 anos de experiência como desenvolvedor fullstack  
 - 🏗 Forte atuação com **arquitetura de microsserviços e sistemas distribuídos**  
 - ⚙️ Especialista em **Java (Spring Boot)** e ecossistema JavaScript moderno  
 - ☁️ Experiência com **cloud, CI/CD e containers (Docker/OpenShift)**  
@@ -82,7 +82,7 @@ Postman • Insomnia • Redis (cache e filas)
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucasmc20&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME_AQUI&show_icons=true&theme=radical&cache_seconds=1800" />
 </p>
 
 ---
@@ -102,7 +102,7 @@ Postman • Insomnia • Redis (cache e filas)
 
 ## 💡 Diferenciais
 
-✔ +8 anos desenvolvendo sistemas em produção  
+✔ +12 anos desenvolvendo sistemas em produção  
 ✔ Forte domínio em Java (Spring Boot)  
 ✔ Experiência com microsserviços e integrações (REST e SOAP)  
 ✔ Vivência em DevOps, CI/CD e containers  
